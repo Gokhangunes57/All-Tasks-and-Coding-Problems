@@ -10,6 +10,9 @@
  o(n^2)
 
 **3-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.**
-
+-average case = o(n^2)
+-worst case = o(n^2)
+-best case =o(n)
 
 **4-Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.**
+-average case
