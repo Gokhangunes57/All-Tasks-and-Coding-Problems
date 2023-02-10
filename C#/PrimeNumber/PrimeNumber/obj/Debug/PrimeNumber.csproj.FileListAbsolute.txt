@@ -1,8 +1,0 @@
-C:\Users\gokha\OneDrive\Belgeler\Github Projects_\All-Tasks-and-Coding-Problems\C#\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
-C:\Users\gokha\OneDrive\Belgeler\Github Projects_\All-Tasks-and-Coding-Problems\C#\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
-C:\Users\gokha\OneDrive\Belgeler\Github Projects_\All-Tasks-and-Coding-Problems\C#\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
-C:\Users\gokha\OneDrive\Belgeler\Github Projects_\All-Tasks-and-Coding-Problems\C#\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
-C:\Users\gokha\OneDrive\Belgeler\Github Projects_\All-Tasks-and-Coding-Problems\C#\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.SuggestedBindingRedirects.cache
-C:\Users\gokha\OneDrive\Belgeler\Github Projects_\All-Tasks-and-Coding-Problems\C#\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
-C:\Users\gokha\OneDrive\Belgeler\Github Projects_\All-Tasks-and-Coding-Problems\C#\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
-C:\Users\gokha\OneDrive\Belgeler\Github Projects_\All-Tasks-and-Coding-Problems\C#\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
