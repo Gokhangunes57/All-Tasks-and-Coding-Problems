@@ -1,6 +1,0 @@
-/Users/gokhangunes/Desktop/Data_Structure/C#/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.exe
-/Users/gokhangunes/Desktop/Data_Structure/C#/ConsoleApplication2/ConsoleApplication2/bin/Debug/ConsoleApplication2.pdb
-/Users/gokhangunes/Desktop/Data_Structure/C#/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.csprojAssemblyReference.cache
-/Users/gokhangunes/Desktop/Data_Structure/C#/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.csproj.CoreCompileInputs.cache
-/Users/gokhangunes/Desktop/Data_Structure/C#/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.exe
-/Users/gokhangunes/Desktop/Data_Structure/C#/ConsoleApplication2/ConsoleApplication2/obj/Debug/ConsoleApplication2.pdb
